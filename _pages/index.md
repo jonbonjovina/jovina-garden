@@ -7,10 +7,11 @@ permalink: /
 
 # Welcome to my digital garden! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
-Hello! my name is [Jovina](https://jovina.online/about) 
+Hello, my name is [Jovina](https://jovina.online/about), UI/UX and graphic designer. 
+
+When writer Iain Sinclair was asked if he did research for his books, he replied that his whole life was research. This digital garden is my way of collating all of that research - essentially, all that life. 
+
+
 I built this digital garden through an open-source and free template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template) 
 
 <strong>Recently updated notes</strong>
