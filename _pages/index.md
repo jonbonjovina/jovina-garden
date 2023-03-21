@@ -8,14 +8,12 @@ permalink: /
 # Welcome to my digital garden! 🌱
 
 <p style="padding: 3em 1em; background: #f4f6e6; border-radius: 4px;">
-   <span style="font-weight: bold">Joe Hisaishi</span> One Summer's Day 
-   <audio controls>
+   <span style="font-weight: bold">Joe Hisaishi</span> One Summer's Day <br>
+      <audio controls>
     <source src="/assets/summerday.mp3" type="audio/mpeg">
     </audio>
+   </br>
 </p>
-
-
-Hello, my name is [[Jovina]], UI/UX and graphic designer based in Singapore. 
 
 When writer Iain Sinclair was asked if he did research for his books, he replied that his whole life was research. Inspired by that, I decided to create this digital garden as my way of collating all of that research - essentially, all that life. Some may call it a personal knowledge management system, but I find the term [[digital-garden|digital garden]]🪴 just a tad more endearing, don't you think?
 
@@ -25,6 +23,7 @@ My goal is to tend to this garden just like I would my actual garden. The notes 
 Notes in essay formats, may be year-in-reviews, or more 
 <ul> 
 <li> [[research|How research builds the designer]] </li>
+<li> [[Where I'm at, where I'm going]]
 <li> TBA for now! </li> </ul>
 
 <strong>Site notes </strong>
