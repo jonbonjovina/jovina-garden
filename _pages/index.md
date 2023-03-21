@@ -22,12 +22,11 @@ My goal is to tend to this garden just like I would my actual garden. The notes 
 Notes in essay formats, may be year-in-reviews, or more 
 <ul> 
 <li> [[research|How research builds the designer]] </li>
-<li> [[Where I'm at, where I'm going]]
+<li> [[Where I'm at, where I'm going]]</li>
 <li> TBA for now! </li> 
 </ul>
 
 <strong>Recently updated notes</strong>
-
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes | limit: 5 %}
