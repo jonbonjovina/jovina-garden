@@ -23,8 +23,11 @@ Notes in essay formats, may be year-in-reviews, or more
 <ul> 
 <li> [[research|How research builds the designer]] </li>
 <li> [[Where I'm at, where I'm going]]</li>
-<li> TBA for now! </li> 
-</ul>
+<li> TBA for now! </li> </ul>
+
+
+<strong>Site notes </strong>
+My toolkit as of now consists of Obsidian, Github and Jekyll. This is pretty challenging for me considering I'm not from a technical background, but I'm having fun nerding out 🤓. I built this digital garden through an open-source and free template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). 
 
 <strong>Recently updated notes</strong>
 <ul>
