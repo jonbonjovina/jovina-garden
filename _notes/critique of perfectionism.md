@@ -12,6 +12,9 @@ https://twitter.com/Siennafrst/status/1636184463288991744?s=20
 
 https://twitter.com/Siennafrst/status/1636184480305262592?s=20
 
+*the embeded tweet thing is not working this is frustrating i will fix this some other time :(
+
+   
 Really hardhitting point there on how being the best is good for the ego but not exactly necessary. I have definitely been in my fair share of brutal perfectionism. One concrete example being my portfolio website, which took near to 8 months to complete and everyday I'm still adding stuff to it.
 
 **Perfectionism relates very closely with the [[optionality]] fallacy.**  I'd interpret it as 'keeping as many options as possible, just in case one fails'. Here's why I think so: 

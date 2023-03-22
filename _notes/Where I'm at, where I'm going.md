@@ -1,5 +1,5 @@
 ---
-title: Where im going
+title: Where I'm at, where I'm going
 ---
 
 Countdown to graduation as I'm writing this: 36 days, or about 5 weeks. Isn't that mindboggling? I've spent the last 2 and a half years in Singapore studying, working, growing. As my education engagement here comes to a close, the classic question arises - what do I do next after this? 
