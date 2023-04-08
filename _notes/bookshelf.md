@@ -18,7 +18,8 @@ Side note: This an evergreen list. I do hope to link each of these books to a re
 - [Good Services: Decoding the Mystery of What Makes a Good Service](https://app.thestorygraph.com/books/d0fc3539-07bb-4040-808b-a307a3584115) by Lou Downe 
 - [Girl, Woman, Other](https://app.thestorygraph.com/books/cb259d8e-4763-4a4d-8e99-82d06d4718a9) by Bernardine Evaristo 
 - ⭐️ [Beautiful World, Where Are You](https://app.thestorygraph.com/books/8e34ba9e-26c2-44a0-a02f-85c9cc8d5c05) by Sally Rooney 
-- [The Courage To Be Disliked: How to free yourself, change your life and achieve real happiness](https://app.thestorygraph.com/books/28473aa9-7e42-4ce1-9cb2-2534d9629ccd) by Fumitake Koga 
+- [The Courage To Be Disliked: How to free yourself, change your life and achieve real happiness](https://app.thestorygraph.com/books/28473aa9-7e42-4ce1-9cb2-2534d9629ccd) by Fumitake Koga. Not a review, but ideas can be found [[adlerian-theory|here]]
+-
 
 ### Books that made me who I am 
 - [1984](https://app.thestorygraph.com/books/62268dc5-1061-46d7-b418-52ebcd3965a9) by George Orwell 

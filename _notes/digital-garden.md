@@ -2,9 +2,9 @@
 title: Digital Garden
 ---
 
-Last year, I made the decision to start writing consistently and post it publicly. My platform of choice was Medium due to its simple interface and established community. I published one article, generating 352 appreciations and I thought - Wow, this is it, I'm not gonna give this up like all my other short-lived hobbies. Spoiler alert, I didn't end up doing it consistently enough. I could list out a psychoanalysis of why and make up excuses but it's simple really - perfection became my excuse for procrastination. It wasn't sustainable to spend weeks writing 1 article and end up never publishing it for fear of faults. I never hit the publish button again. 
+Last year, I made the decision to start writing consistently and post it publicly. My platform of choice was Medium due to its simple interface and established community. I published one article, generating 352 appreciations and I thought - *Wow, this is it, I'm not gonna give this up like all my other short-lived hobbies*. Spoiler alert, I didn't end up doing it consistently enough. I could list out a psychoanalysis of why and make up excuses but it's simple really - it wasn't sustainable to spend weeks writing 1 article, editting it to the bone and end up never publishing it. I never hit the publish button again. 
 
-I thought long and hard about what I could do to ameliorate this. For one, I love writing and I was already doing it - for myself. Two, writing helps me learn and grasp concepts, remember my learnings, reflect on experiences and be a better human being overall. That's when I stumbled on the Digital Garden through Are.na, which is another gem on its own. 
+I thought long and hard about what I could do to ameliorate this. For one, I love writing and I was already doing it - for myself. Two, writing helps me learn and grasp concepts, remember my learnings, reflect on experiences and be a better human being overall. That's when I stumbled on the Digital Garden through Are.na.
 
 ## So what is a digital garden anyway? 
 
