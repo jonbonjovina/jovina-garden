@@ -1,0 +1,5 @@
+- List of [[curiosities]]
+- List of things I love for many reasons 
+- List of substack essay draft 
+- List of other people's blogs 
+- List of media I love 

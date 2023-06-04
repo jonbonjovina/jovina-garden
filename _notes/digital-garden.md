@@ -44,10 +44,6 @@ The topic of [meta procrastination](https://betterhumans.pub/are-you-guilty-of-m
 Building a digital garden is worth it because for the first time, I'm coming into it with the notion that I can be patient with it and tend to it sustainably. 
 
 
-## Digital gardening philosophy 
-
-- TBA 
-
 ## Resources 
 
 - [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)by Tom Critchlow 
